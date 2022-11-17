@@ -1,0 +1,16 @@
+.topSection{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.topSection input {
+    margin-bottom: 20px;
+}
+
+.topSection textarea {
+    margin-bottom: 20px;
+    height: 100px;
+}
